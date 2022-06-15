@@ -7,5 +7,6 @@ mkShell {
     niv
     rust-analyzer
     diesel-cli
+    cargo-edit
   ];
 }
